@@ -1,0 +1,40 @@
+
+.card {
+    margin-bottom: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card-header {
+    color: #3f238c;
+    background-color:#96be25;
+    border-color: #3f238c;
+    border-radius: 5px;
+    border-width: 5px ;
+}
+.card-title {
+    font-size: 24px;
+    font-weight: 600;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card-body {
+    margin-left: 5px;
+}
+.card-text {
+    font: 120px;
+    font-weight: 400;
+
+}
+em {
+    color:gold;
+    font-weight: 600;
+    font-style: normal;
+}
+.book-img {
+    max-width: 50px;
+    padding-left: 10px;
+    border: 1px 
+}
+.book-title {
+    text-align: right;
+    color: #6ba841;
+    font-weight: 400;
+}
